@@ -1,0 +1,600 @@
+{
+    "Far North": {
+      "capital": "Maroua",
+      "divisions":{
+        "1": {
+          "name": "Diamare",
+          "sub-divisions": [
+            "Bogo",
+            "Dargala",
+            "Garwaza",
+            "Maroua I",
+            "Maroua II",
+            "Maroua III",
+            "Meri",
+            "Ndoukoula",
+            "Petté"
+          ]
+        },
+        "2": {
+          "name": "Logone and Chari",
+          "sub-divisions": [
+            "Blangoua",
+            "Darak",
+            "Fotokol",
+            "Goulfey",
+            "Hile-Alifa",
+            "Kousséri",
+            "Logone-Birni",
+            "Makary",
+            "Waza",
+            "Zina"
+          ]
+        },
+        "3": {
+          "name": "Mayo-Danay",
+          "sub-divisions": [
+            "Datcheka",
+            "Gobo",
+            "Guéré",
+            "Kaï-Kaï",
+            "Kalfou",
+            "Kar-Hay",
+            "Maga",
+            "Tchati-Bali",
+            "Vele",
+            "Wina",
+            "Yagoua"
+          ]
+        },
+        "4": {
+          "name": "Mayo-Kani",
+          "sub-divisions": [
+            "Dziguilao",
+            "Guidiguis",
+            "Kaélé",
+            "Mindif",
+            "Moulvoudaye",
+            "Moutourwa",
+            "Touloum"
+          ]
+        },
+        "5": {
+          "name": "Mayo-Sava",
+          "sub-divisions": [
+            "Kolofata",
+            "Mora",
+            "Tokombéré"
+          ]
+        },
+        "6": {
+          "name": "Mayo-Tsanaga",
+          "sub-divisions": [
+            "Bourrha",
+            "Hina",
+            "Koza",
+            "Mogodé",
+            "Mokolo",
+            "Mozogo",
+            "Souledé-Roua"
+          ]
+        }
+      }
+    },
+     "North": {
+      "capital": "Garoua",
+      "divisions":{
+        "1": {
+          "name": "Bénoué",
+          "sub-divisions": [
+            "Barndaké",
+            "Bashéo",
+            "Bibemi",
+            "Dembo",
+            "Garoua Urban",
+            "Garoua Rural",
+            "Gashiga",
+            "Lagdo",
+            "Ngong",
+            "Pitoa",
+            "Touroua"
+          ]
+        },
+        "2": {
+          "name": "Faro",
+          "sub-divisions": [
+            "Galim-Tignère",
+            "Mayo-Baléo",
+            "Tignère",
+            "Kontcha"
+          ]
+        },
+        "3": {
+          "name": "Mayo-Louti",
+          "sub-divisions": [
+            "Figuil",
+            "Guider",
+            "Mayo-Oulo"
+          ]
+        },
+        "4": {
+          "name": "Mayo-Rey",
+          "sub-divisions": [
+            "Mandingring",
+            "Tcholliré",
+            "Touboro",
+            "Rey Bouba"
+          ]
+        }
+      }
+    },
+    "Adamaoua": {
+      "capital": "Ngaoundéré",
+      "divisions": {
+        "1": {
+          "name": "Djérem",
+          "sub-divisions": [
+            "Garoua-Boulaï",
+            "Gobo",
+            "Gordil",
+            "Kaélé",
+            "Mére",
+            "Ndélélé",
+            "Ndoukoula",
+            "Ngoura",
+            "Tello"
+          ]
+        },
+        "2": {
+          "name": "Faro-et-Déo",
+          "sub-divisions": [
+            "Beka",
+            "Bélel",
+            "Bibémi",
+            "Djohong",
+            "Doukoula",
+            "Gobo",
+            "Mandoumbe",
+            "Ndélélé",
+            "Nganha",
+            "Tibati"
+          ]
+        },
+        "3": {
+          "name": "Mayo-Banyo",
+          "sub-divisions": [
+            "Bankim",
+            "Banyo",
+            "Bazou",
+            "Bessengué",
+            "Kika",
+            "Mbang",
+            "Mbi",
+            "Menchum",
+            "Metock",
+            "Ngordiembe",
+            "Santchou"
+          ]
+        }
+      }
+    },
+    "Centre": {
+      "capital": "Yaoundé",
+      "divisions": {
+        "1": {
+          "name": "Haute-Sanaga",
+          "sub-divisions": [
+            "Bikok",
+            "Bipindi",
+            "Dibang",
+            "Lomié",
+            "Makénéné",
+            "Mbalmayo",
+            "Nanga-Eboko",
+            "Ngambè-Tikar",
+            "Somalomo",
+            "Tibati",
+            "Zoétélé"
+          ]
+        },
+        "2": {
+          "name": "Lekié",
+          "sub-divisions": [
+            "Elig-Mfomo",
+            "Evodoula",
+            "Mfou",
+            "Mbankomo",
+            "Messondo",
+            "Ngoumou",
+            "Obala",
+            "Okola"
+          ]
+        },
+        "3": {
+          "name": "Mbam-et-Inoubou",
+          "sub-divisions": [
+            "Bokito",
+            "Bongam",
+            "Dehane",
+            "Kon-Yambetta",
+            "Kondi",
+            "Massangam",
+            "Mbanga-Bakoko",
+            "Ndikinimeki",
+            "Ntui"
+          ]
+        },
+        "4": {
+          "name": "Méfou-et-Afamba",
+          "sub-divisions": [
+            "Awae",
+            "Bikok",
+            "Efoulan",
+            "Mfou",
+            "Nkolafamba",
+            "Owondo"
+          ]
+        },
+        "5": {
+          "name": "Mfoundi",
+          "sub-divisions": [
+            "Yaoundé I",
+            "Yaoundé II",
+            "Yaoundé III",
+            "Yaoundé IV",
+            "Yaoundé V",
+            "Yaoundé VI"
+          ]
+        }
+      }
+    },
+     "East": {
+      "capital": "Bertoua",
+      "divisions":{
+        "1": {
+          "name": "Lom and Djerem",
+          "sub-divisions": [
+            "Batouri",
+            "Belabo",
+            "Bertoua",
+            "Diang",
+            "Doume",
+            "Lomie",
+            "Mindourou",
+            "Nguélémendouka"
+          ]
+        },
+        "2": {
+          "name": "Upper Nyong",
+          "sub-divisions": [
+            "Abong-Mbang",
+            "Dimako",
+            "Doumaintang",
+            "Lomié",
+            "Mboma",
+            "Messamena",
+            "Nguelemendouka",
+            "Somalomo"
+          ]
+        },
+        "3": {
+          "name": "Kadey",
+          "sub-divisions": [
+            "Betare-Oya",
+            "Kadey",
+            "Kentzou",
+            "Ndelele",
+            "Nguelebok",
+            "Somié"
+          ]
+        },
+        "4": {
+          "name": "Haute-Kadey",
+          "sub-divisions": [
+            "Batouri",
+            "Angossas",
+            "Mbang",
+            "Messamena",
+            "Ndélélé",
+            "Salapoumbe",
+            "Sommegant",
+            "Ndélélé"
+          ]
+        }
+      }
+    },
+    "South West": {
+      "capital": "Buea",
+      "divisions": {
+        "1": {
+          "name": "Fako",
+          "sub-divisions": [
+            "Buea",
+            "Ambas Bay",
+            "Muyuka",
+            "Tiko"
+          ]
+        },
+        "2": {
+          "name": "Meme",
+          "sub-divisions": [
+            "Konye",
+            "Central Kumba",
+            "Mbonge",
+            "Mungo Central"
+          ]
+        },
+        "3": {
+          "name": "Ndian",
+          "sub-divisions": [
+            "Bamusso",
+            "Dikome-Balue",
+            "Ekondo-Titi",
+            "Idabato",
+            "Isanguele",
+            "Kombo-Abedimo",
+            "Kombo-Itindi",
+            "Mundemba",
+            "Toko"
+          ]
+        },
+        "4": {
+          "name": "Manyu",
+          "sub-divisions": [
+            "Akwaya",
+            "Eyumojock",
+            "Upper Bayang",
+            "Mamfe Central"
+          ]
+        },
+        "5": {
+          "name": "Lebialem",
+          "sub-divisions": [
+            "Fontem",
+            "Alou",
+            "Wabane"
+          ]
+        },
+        "6": {
+          "name": "Koupe-Manengouba",
+          "sub-divisions": [
+            "Bangem",
+            "Tombel",
+            "Nguti",
+            "NiKongsamba",
+            "Upper Mungo"
+          ]
+        }
+      }
+    },
+    "North West": {
+      "capital": "Bamenda",
+      "divisions": {
+        "1": {
+          "name": "Donga-Mantung",
+          "sub-divisions": [
+            "Ako",
+            "Misaje",
+            "Ndu",
+            "Nkambe",
+            "Nwa"
+          ]
+        },
+        "2": {
+          "name": "Bui",
+          "sub-divisions": [
+            "Noni",
+            "Oku",
+            "Dzekwa",
+            "Mbiame",
+            "Nkum",
+            "Kumbo"
+          ]
+        },
+        "3": {
+          "name": "Menchum",
+          "sub-divisions": [
+            "Fungom",
+            "Furu-Awa",
+            "Menchum Valley",
+            "Wum"
+          ]
+        },
+        "4": {
+          "name": "Mezam",
+          "sub-divisions": [
+            "Bafut",
+            "Bali",
+            "Bamenda I",
+            "Bamenda II",
+            "Bamenda III",
+            "Santa",
+            "Tubah"
+          ]
+        },
+        "5": {
+          "name": "Momo",
+          "sub-divisions": [
+            "Batibo",
+            "Mbengwi",
+            "Ngie",
+            "Njikwa",
+            "Widikum"
+          ]
+        }
+      }
+    },
+    "West": {
+      "capital": "Bafoussam",
+      "divisions": {
+        "1": {
+          "name": "Noun",
+          "sub-divisions": [
+            "Foumban",
+            "Foumbot",
+            "Kouoptamo",
+            "Koutaba",
+            "Malentouen",
+            "Massangam",
+            "Njimom"
+          ]
+        },
+        "2": {
+          "name": "Ndé",
+          "sub-divisions": [
+            "Bangangté",
+            "Bassamba",
+            "Bazou",
+            "Tonga",
+            "Balengou",
+            "Bamena"
+          ]
+        },
+        "3": {
+          "name": "Haut-Nkam",
+          "sub-divisions": [
+            "Bafang",
+            "Bafou",
+            "Banwa",
+            "Bandja",
+            "Kekem",
+            "Bana"
+          ]
+        },
+        "4": {
+          "name": "Ménoua",
+          "sub-divisions": [
+            "Dschang",
+            "Penka Michel",
+            "Santchou",
+            "Fokoue",
+            "Nkong-Ni",
+            "Fongo-Tongo"
+          ]
+        },
+        "5": {
+          "name": "Mifi",
+          "sub-divisions": [
+            "Bafoussam I",
+            "Bafoussam II",
+            "Bafoussam III"
+          ]
+        },
+        "6": {
+          "name": "Bamboutos",
+          "sub-divisions": [
+            "Batcham",
+            "Galim",
+            "Mbouda"
+          ]
+        },
+        "7": {
+          "name": "Hauts-Plateaux",
+          "sub-divisions": [
+            "Baham",
+            "Bamendjou",
+            "Bangou",
+            "Batié"
+          ]
+        },
+        "8": {
+          "name": "Koung-Khi",
+          "sub-divisions": [
+            "Bayangam",
+            "Djebem",
+            "Poumougne"
+          ]
+        }
+      }
+    },
+    "Littoral": {
+      "capital": "Douala",
+      "divisions": {
+        "1": {
+          "name": "Nkam",
+          "sub-divisions": [
+            "Ndobian",
+            "Nkondjock",
+            "Yabassi",
+            "Yingui"
+          ]
+        },
+        "2": {
+          "name": "Sanaga-Maritime",
+          "sub-divisions": [
+            "Dizangué",
+            "Dibamba",
+            "Édéa Urban",
+            "Édéa Rural",
+            "Massock",
+            "Mouanko",
+            "Ndom",
+            "Ngambe",
+            "Ngwei",
+            "Nyanon",
+            "Pouma"
+          ]
+        },
+        "3": {
+          "name": "Wouri",
+          "sub-divisions": [
+            "Douala IV",
+            "Douala V",
+            "Douala VI"
+          ]
+        }
+      }
+    },
+    "South": {
+      "capital": "Ebolowa",
+      "divisions": {
+        "1": {
+          "name": "Dja-et-Lobe",
+          "sub-divisions": [
+            "Djoum",
+            "Meyomessala",
+            "Meyomessi",
+            "Mintom",
+            "Oveng",
+            "Sangmélima"
+          ]
+        },
+        "2": {
+          "name": "Mvila",
+          "sub-divisions": [
+            "Biwong-Bane",
+            "Biwong-Bulu",
+            "Ebolowa Urban",
+            "Ebolowa Rural",
+            "Efoulan",
+            "Mengong",
+            "Mvangane",
+            "Ngoulemakong"
+          ]
+        },
+        "3": {
+          "name": "Ocean",
+          "sub-divisions": [
+            "Akom II",
+            "Bipindi",
+            "Campo",
+            "Kribi Urban",
+            "Kribi Rural",
+            "Lokundje",
+            "Lolodorf",
+            "Mvengue",
+            "Niete"
+          ]
+        },
+        "4": {
+          "name": "Valee-du- Ntem",
+          "sub-divisions": [
+            "Kyé-Ossi",
+            "Ma'an",
+            "Olamze",
+            "Amban"
+          ]
+        }
+      }
+    }
+  }
